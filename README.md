@@ -1,6 +1,6 @@
 # Resources
 
-This README.md provides links to resources related to 
+This README.md provides links to resources related to Git workflows and conventions.
 
 ## Git Workflow
 
