@@ -6,7 +6,7 @@ This README.md provides links to resources related to Git workflows and conventi
 
 Learn about the Git braching strategy, for our project we will be using a <i>feature braching</i> strategy.
 
-- [Gitflow Workflow for Efficient Teamwork](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow): Atlassian's comprehensive guide to the Gitflow workflow.
+- [Git Branching Strategy](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow): Atlassian's comprehensive guide to the Gitflow workflow.
 
 ## Git Convention
 
